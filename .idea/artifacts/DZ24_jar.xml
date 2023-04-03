@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="DZ24:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DZ24_jar</output-path>
+    <root id="root">
+      <element id="archive" name="DZ24.jar">
+        <element id="module-output" name="DZ24" />
+      </element>
+    </root>
+  </artifact>
+</component>
